@@ -6,6 +6,7 @@ void setup() {
 
 //New comment added
 //2nd comment
+//3rd comment added
 void loop() {
   digitalWrite(13,  HIGH);
   delay(1000);
