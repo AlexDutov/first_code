@@ -12,6 +12,7 @@ void setup() {
 //6th comment added
 //feature/new_comment
 //branch1
+//branch2
 void loop() {
   digitalWrite(13,  HIGH);
   delay(2000);
